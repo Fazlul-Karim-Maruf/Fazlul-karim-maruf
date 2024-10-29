@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Deanicked=7AF79A&size=30&lines=Hey!+It's+Maruf!;I'm+a+learning+developer...;CRAZY+fan+of+Web+Application+Development; And+I'm+a+workaholic+person;looking+to+contribute;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Deanicked=7AF79A&size=30&lines=Hey!+It's+Maruf!;I'm+a+learning+developer...;CRAZY+fan+of+Web+Application+Development;And+I'm+a+workaholic+person;looking+to+contribute;)](https://git.io/typing-svg)
 
 <img src="https://profile-counter.glitch.me/najmul-haque-talukder/count.svg">
 
