@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/fazlul-karim-maruf/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/najmul-haque-talukder.svg?style=social&label=Followers)]( https://github.com/Fazlul-Karim-Maruf?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/fazlul-karim-maruf.svg?style=social&label=Followers)]( https://github.com/Fazlul-Karim-Maruf?tab=followers)
 
 
 
@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]( https://www.facebook.com/fk.maruf.94) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fk.maruf.94/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazlul-karim-maruf-4b0480312/) 
 
 #### Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP]( https://www.php.net/images/logos/new-php-logo.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](  https://www.php.net//images/logos/php-icon-white.gif?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL ] (https://www.mysql.com/common/logos/includes-mysql-88x31-wob.png?style=for-the-badge&logo=openjdk&logoColor=white)
 #### Here is my GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fazlul-karim-maruf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fazlul-karim-maruf&theme=dark&hide_border=false)<br/>
